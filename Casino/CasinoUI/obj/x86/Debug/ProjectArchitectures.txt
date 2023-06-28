@@ -1,0 +1,2 @@
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\CasinoLibrary.csproj;x86
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\CasinoUI.csproj;x86

@@ -1,0 +1,246 @@
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\CasinoUI.csproj.AssemblyReference.cache
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\App.g.i.cs
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\App.g.cs
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\MainPage.g.cs
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\App.xaml
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\MainPage.xaml
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\App.xbf
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\MainPage.xbf
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\CasinoUI.csproj.CoreCompileInputs.cache
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\bin\x86\Debug\App.xbf
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\bin\x86\Debug\MainPage.xbf
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\bin\x86\Debug\CasinoUI.xr.xml
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\bin\x86\Debug\CasinoUI.exe
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\bin\x86\Debug\CasinoUI.pdb
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\bin\x86\Debug\resources.pri
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\bin\x86\Debug\AppxManifest.xml
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\bin\x86\Debug\Core\CasinoUI.exe
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\bin\x86\Debug\CasinoUI.build.appxrecipe
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\bin\x86\Debug\System.Runtime.dll
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\bin\x86\Debug\CasinoLibrary.dll
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\bin\x86\Debug\CasinoLibrary.pdb
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\bin\x86\Debug\CasinoLibrary.pri
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\CasinoUI.csproj.CopyComplete
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\CasinoLibrary.pri.xml
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\CasinoUI.exe
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\CasinoUI.pdb
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\priconfig.xml
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\resources.resfiles
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\pri.resfiles
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\qualifiers.txt
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoUI\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\App.xbf
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\MainPage.xbf
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\CasinoUI.xr.xml
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\CasinoUI.exe
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\CasinoUI.pdb
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\resources.pri
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\AppxManifest.xml
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\Core\CasinoUI.exe
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\CasinoUI.build.appxrecipe
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\System.Runtime.dll
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\CasinoLibrary.dll
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\CasinoLibrary.pdb
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\CasinoLibrary.pri
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\CasinoUI.csprojAssemblyReference.cache
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\App.g.i.cs
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\App.g.cs
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\MainPage.g.cs
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\App.xaml
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\MainPage.xaml
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\App.xbf
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\MainPage.xbf
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\CasinoUI.csproj.CoreCompileInputs.cache
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\CasinoUI.csproj.CopyComplete
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\CasinoLibrary.pri.xml
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\CasinoUI.exe
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\CasinoUI.pdb
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\priconfig.xml
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\resources.resfiles
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\pri.resfiles
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\qualifiers.txt
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112750540000000.json
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\App.xbf
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\MainPage.xbf
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\CasinoUI.xr.xml
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\CasinoUI.exe
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\CasinoUI.pdb
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\resources.pri
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\AppxManifest.xml
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\Core\CasinoUI.exe
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\CasinoUI.build.appxrecipe
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\System.Runtime.dll
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\CasinoLibrary.dll
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\CasinoLibrary.pdb
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\bin\x86\Debug\CasinoLibrary.pri
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\CasinoUI.csproj.AssemblyReference.cache
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\App.g.i.cs
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\App.g.cs
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\MainPage.g.cs
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\App.xaml
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\MainPage.xaml
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\App.xbf
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\MainPage.xbf
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\CasinoUI.csproj.CoreCompileInputs.cache
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\CasinoUI.csproj.CopyComplete
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\CasinoLibrary.pri.xml
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\CasinoUI.exe
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\CasinoUI.pdb
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\priconfig.xml
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\resources.resfiles
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\pri.resfiles
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\qualifiers.txt
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoUI\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\bin\x86\Debug\App.xbf
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\bin\x86\Debug\MainPage.xbf
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\bin\x86\Debug\CasinoUI.xr.xml
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\bin\x86\Debug\CasinoUI.exe
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\bin\x86\Debug\CasinoUI.pdb
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\bin\x86\Debug\resources.pri
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\bin\x86\Debug\AppxManifest.xml
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\bin\x86\Debug\Core\CasinoUI.exe
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\bin\x86\Debug\CasinoUI.build.appxrecipe
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\bin\x86\Debug\System.Runtime.dll
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\bin\x86\Debug\CasinoLibrary.dll
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\bin\x86\Debug\CasinoLibrary.pdb
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\bin\x86\Debug\CasinoLibrary.pri
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\CasinoUI.csproj.AssemblyReference.cache
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\App.g.i.cs
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\App.g.cs
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\MainPage.g.cs
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\App.xaml
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\MainPage.xaml
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\App.xbf
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\MainPage.xbf
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\CasinoUI.csproj.CoreCompileInputs.cache
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\CasinoUI.csproj.CopyComplete
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\CasinoLibrary.pri.xml
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\CasinoUI.exe
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\CasinoUI.pdb
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\priconfig.xml
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\resources.resfiles
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\pri.resfiles
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\qualifiers.txt
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoUI\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\bin\x86\Debug\App.xbf
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\bin\x86\Debug\MainPage.xbf
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\bin\x86\Debug\CasinoUI.xr.xml
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\bin\x86\Debug\CasinoUI.exe
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\bin\x86\Debug\CasinoUI.pdb
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\bin\x86\Debug\resources.pri
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\bin\x86\Debug\AppxManifest.xml
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\bin\x86\Debug\Core\CasinoUI.exe
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\bin\x86\Debug\CasinoUI.build.appxrecipe
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\bin\x86\Debug\System.Runtime.dll
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\bin\x86\Debug\CasinoLibrary.dll
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\bin\x86\Debug\CasinoLibrary.pdb
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\bin\x86\Debug\CasinoLibrary.pri
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\CasinoUI.csproj.AssemblyReference.cache
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\App.g.i.cs
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\App.g.cs
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\MainPage.g.cs
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\App.xaml
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\MainPage.xaml
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\App.xbf
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\MainPage.xbf
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\CasinoUI.csproj.CoreCompileInputs.cache
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\CasinoUI.csproj.CopyComplete
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\CasinoLibrary.pri.xml
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\CasinoUI.exe
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\CasinoUI.pdb
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\priconfig.xml
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\resources.resfiles
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\pri.resfiles
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\qualifiers.txt
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoUI\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json

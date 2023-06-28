@@ -1,0 +1,119 @@
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\bin\x86\Debug\CasinoLibrary.dll
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\bin\x86\Debug\CasinoLibrary.pdb
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\bin\x86\Debug\CasinoLibrary.pri
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.csproj.CopyComplete
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.dll
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.pdb
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\priconfig.xml
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\resources.resfiles
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\pri.resfiles
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\qualifiers.txt
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\melis\Documents\Teaching_Winter22\PROG1224W21\Tests\FinalExam\Casino\CasinoLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\bin\x86\Debug\CasinoLibrary.dll
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\bin\x86\Debug\CasinoLibrary.pdb
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\bin\x86\Debug\CasinoLibrary.pri
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.csprojAssemblyReference.cache
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.csproj.CopyComplete
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.dll
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.pdb
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\priconfig.xml
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\resources.resfiles
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\pri.resfiles
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\qualifiers.txt
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\pvanscoy\Desktop\PROG1224W21\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\bin\x86\Debug\CasinoLibrary.dll
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\bin\x86\Debug\CasinoLibrary.pdb
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\bin\x86\Debug\CasinoLibrary.pri
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.csproj.AssemblyReference.cache
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.csproj.CopyComplete
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.dll
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.pdb
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\priconfig.xml
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\resources.resfiles
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\pri.resfiles
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\qualifiers.txt
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\pvanscoy\Desktop\W2023\PROG1224\Final\Casino_Start\Casino\CasinoLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\bin\x86\Debug\CasinoLibrary.dll
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\bin\x86\Debug\CasinoLibrary.pdb
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\bin\x86\Debug\CasinoLibrary.pri
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.csproj.AssemblyReference.cache
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.csproj.CopyComplete
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.dll
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.pdb
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\priconfig.xml
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\resources.resfiles
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\pri.resfiles
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\qualifiers.txt
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\pvanscoy\Downloads\CasinoStartFiles\Casino\CasinoLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\bin\x86\Debug\CasinoLibrary.dll
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\bin\x86\Debug\CasinoLibrary.pdb
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\bin\x86\Debug\CasinoLibrary.pri
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.csproj.CopyComplete
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.dll
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.pdb
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\priconfig.xml
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\resources.resfiles
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\pri.resfiles
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\qualifiers.txt
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\PeredaMurguia\Desktop\COLLEGE\Term2\c#\Tests\CasinoTest Files\Casino\CasinoLibrary\obj\x86\Debug\CasinoLibrary.csproj.AssemblyReference.cache
